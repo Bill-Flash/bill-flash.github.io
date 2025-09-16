@@ -66,11 +66,11 @@ education:
     summary: |
       First Class Honor with key courses: NLP (A+), Smartphone apps development (A+), Quantum Computing and AI (A), Deep Learning (A).
   - area: Bachelor of Science in Software Engineering (First-Class Honours)
-      institution: University College Dublin (UCD)
-      date_start: 2019-09-01
-      date_end: 2023-06-30
-      summary: |
-        GPA is 93/100 (3.90/4.2); Ranking is 2/88. English Proficiency is IELTS 7.0; GRE 324.
+    institution: University College Dublin (UCD)
+    date_start: 2019-09-01
+    date_end: 2023-06-30
+    summary: |
+      GPA is 93/100 (3.90/4.2); Ranking is 2/88. English Proficiency is IELTS 7.0; GRE 324.
 
 work:
   - position: Senior AI Research Scientist

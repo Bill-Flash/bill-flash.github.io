@@ -16,7 +16,7 @@ sections:
       text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: CV
+        text: Check CV
         url: uploads/resume.pdf
       headings:
         about: ''

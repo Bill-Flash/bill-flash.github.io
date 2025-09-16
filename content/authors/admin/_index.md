@@ -92,6 +92,7 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
+skills:
   - name: Programming Languages
     items:
       - name: Python
@@ -134,35 +135,37 @@ work:
 languages:
   - name: English
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: Chinese (Mandarin)
+    percent: 100
+  - name: Cantonese
+    percent: 85
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
+  - title: Beijing Outstanding Graduate (Top 4)
+    url: https://www.bjut.edu.cn/
+    date: '2023-06-30'
+    awarder: Beijing University of Technology
     icon: hero/trophy
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
+      Recognized as top 4 outstanding graduate among all students.
+  - title: Meritorious Winner (Top 7% globally)
+    url: https://www.comap.com/
+    date: '2022-04-30'
+    awarder: MCM/ICM Competition
+    icon: hero/trophy
+    summary: |
+      Achieved top 7% globally in Mathematical Contest in Modeling/Interdisciplinary Contest in Modeling.
+  - title: Three-year Learning Excellence Scholarship
+    url: https://www.bjut.edu.cn/
+    date: '2022-12-31'
+    awarder: Beijing University of Technology
     icon: hero/currency-dollar
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Merit-based scholarship for three consecutive years (2019-2022).
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Qinghang Bao (Bill) is a PhD student at The University of Hong Kong Faculty of Dentistry, specializing in AI applications in healthcare and dental research. He holds a Master of Science in Computer Science from HKU and dual degrees in Software Engineering from University College Dublin and Beijing University of Technology, with an outstanding academic record (GPA 3.90/4.2, ranking 2/88). Bill has extensive research experience in NLP, graph neural networks, and large language models, with multiple publications in top-tier venues. He has worked on Cantonese language processing and interned at Huawei, developing LLM-based customer support systems. Bill is a rational optimist and good team player, now pursuing his PhD in Dentistry with a focus on AI4Healthcare.

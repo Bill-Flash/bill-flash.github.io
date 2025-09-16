@@ -59,6 +59,12 @@ education:
     date_end: 2029-08-31
     summary: |
       PhD student in Dentistry, focusing on AI applications in healthcare.
+  - area: Master of Science in Computer Science (Distinction)
+    institution: The University of Hong Kong (HKU)
+    date_start: 2023-09-01
+    date_end: 2025-08-31
+    summary: |
+      First Class Honor with key courses: NLP (A+), Smartphone apps development (A+), Quantum Computing and AI (A), Deep Learning (A).
 
 work:
   - position: Senior AI Research Scientist

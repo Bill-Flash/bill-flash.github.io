@@ -70,7 +70,7 @@ education:
       date_start: 2019-09-01
       date_end: 2023-06-30
       summary: |
-        GPA: 93/100 (3.90/4.2); Ranking: 2/88. English Proficiency: IELTS 7.0; GRE 324.
+        GPA\: 93/100 (3.90/4.2); Ranking\: 2/88. English Proficiency\: IELTS 7.0; GRE 324.
 
 work:
   - position: Senior AI Research Scientist
@@ -92,37 +92,44 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
+  - name: Programming Languages
     items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
+      - name: Python
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+        icon: code-bracket
+      - name: Java
+        description: ''
+        percent: 100
+        icon: code-bracket
+      - name: SQL
         description: ''
         percent: 85
-        icon: cloud
-  - name: Hobbies
+        icon: database
+      - name: JavaScript
+        description: ''
+        percent: 80
+        icon: code-bracket
+  - name: AI/ML Frameworks
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: PyTorch
         description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
+        percent: 95
+        icon: brain
+      - name: TensorFlow
+        description: ''
+        percent: 85
+        icon: brain
+      - name: NLP Libraries
         description: ''
         percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
+        icon: language
+      - name: Graph Neural Networks
         description: ''
-        percent: 70
-        icon: book-open
+        percent: 88
+        icon: share-nodes
 
 languages:
   - name: English

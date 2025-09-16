@@ -46,10 +46,11 @@ profiles:
     url: https://scholar.google.com/citations?user=INZI4j4AAAAJ&hl=en&oi=ao
 
 interests:
+  - AI in Healthcare
+  - Natural Language Processing
   - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Graph Neural Networks
+  - Dental Research
 
 education:
   - area: PhD Computer Science (AI Focus)

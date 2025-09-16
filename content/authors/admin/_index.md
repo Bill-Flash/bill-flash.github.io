@@ -54,7 +54,7 @@ interests:
 
 education:
   - area: Doctor of Philosophy (PhD)
-    institution: The University of Hong Kong - Faculty of Dentistry
+    institution: The University of Hong Kong
     date_start: 2025-09-01
     date_end: 2029-08-31
     summary: |
@@ -66,7 +66,7 @@ education:
     summary: |
       First Class Honor with key courses: NLP (A+), Smartphone apps development (A+), Quantum Computing and AI (A), Deep Learning (A).
   - area: Bachelor of Science in Software Engineering (First-Class Honours)
-    institution: University College Dublin (UCD)
+    institution: University College Dublin (UCD) and Beijing University of Technology
     date_start: 2019-09-01
     date_end: 2023-06-30
     summary: |
@@ -168,4 +168,4 @@ awards:
       Merit-based scholarship for three consecutive years (2019-2022).
 ---
 
-Qinghang Bao (Bill) is a PhD student at The University of Hong Kong Faculty of Dentistry, specializing in AI applications in healthcare and dental research. He holds a Master of Science in Computer Science from HKU and dual degrees in Software Engineering from University College Dublin and Beijing University of Technology, with an outstanding academic record (GPA 3.90/4.2, ranking 2/88). Bill has extensive research experience in NLP, graph neural networks, and large language models, with multiple publications in top-tier venues. He has worked on Cantonese language processing, developing LLM-based customer support systems. Bill is a rational optimist and good team player, now pursuing his PhD in Dentistry with a focus on AI4Healthcare.
+Qinghang Bao (Bill) is a PhD student at The University of Hong Kong Faculty of Dentistry, specializing in AI applications in healthcare and precision medicine. He holds a Master of Science in Computer Science from HKU and dual degrees in Software Engineering from University College Dublin and Beijing University of Technology, with an outstanding academic record (GPA 3.90/4.2, ranking 2/88). Bill has extensive research experience in NLP, graph neural networks, and large language models, with multiple publications in top-tier venues. He has worked on Cantonese language processing, developing LLM-based customer support systems. Bill is a rational optimist and good team player, now pursuing his PhD in AI with a focus on AI4Healthcare.

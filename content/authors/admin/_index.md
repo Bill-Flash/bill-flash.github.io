@@ -70,7 +70,7 @@ education:
       date_start: 2019-09-01
       date_end: 2023-06-30
       summary: |
-        GPA\: 93/100 (3.90/4.2); Ranking\: 2/88. English Proficiency\: IELTS 7.0; GRE 324.
+        GPA is 93/100 (3.90/4.2); Ranking is 2/88. English Proficiency is IELTS 7.0; GRE 324.
 
 work:
   - position: Senior AI Research Scientist
